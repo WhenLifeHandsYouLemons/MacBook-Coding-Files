@@ -1,0 +1,87 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2577
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;\red231\green118\blue0;\red57\green70\blue78;\red16\green141\blue232;
+\red42\green171\blue81;\red237\green110\blue85;}
+{\*\expandedcolortbl;;\csgenericrgb\c90588\c46275\c0;\csgenericrgb\c22353\c27451\c30588;\csgenericrgb\c6275\c55294\c90980;
+\csgenericrgb\c16471\c67059\c31765;\csgenericrgb\c92941\c43137\c33333;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\deftab720
+\pard\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\pardeftab720\ri-340\sl372\partightenfactor0
+
+\f0\fs21 \cf2 body\cf3  \{\
+	\cf4 font-family\cf3 : \cf5 "Comic Sans MS"\cf3 , cursive, sans-serif;\
+\}\
+\cf2 p\cf3  \{\
+	\cf4 font-size\cf3 : \cf6 1em\cf3 ;\
+\}\
+\cf2 .eye\cf3  \{\
+	\cf4 background-color\cf3 :brown;\
+	\cf4 width\cf3 :\cf6 20%\cf3 ;\
+	\cf4 height\cf3 :\cf6 20%\cf3 ;\
+	\cf4 border-radius\cf3 : \cf6 50%\cf3 ;\
+\}\
+\cf2 .arm\cf3  \{\
+	\cf4 background-color\cf3 : \cf6 #cacaca\cf3 ;\
+	\cf4 position\cf3 : absolute;\
+	\cf4 top\cf3 : \cf6 35%\cf3 \
+\pard\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\pardeftab720\ri-340\sl372\partightenfactor0
+\cf4 	width\cf3 : \cf6 5%\cf3 ;\
+	\cf4 height\cf3 : \cf6 40%\cf3 ;\
+\}\
+\
+\pard\tx916\tx1832\tx2748\tx3664\tx4580\tx5496\tx6412\tx7328\tx8244\tx9160\tx10076\tx10992\tx11908\tx12824\tx13740\tx14656\pardeftab720\ri-340\sl372\partightenfactor0
+\cf2 #head\cf3  \{\
+	\cf4 width\cf3 :\cf6 30%\cf3 ;\
+	\cf4 height\cf3 :\cf6 30%\cf3 ;\
+	\cf4 border-radius\cf3 : \cf6 15%\cf3 ;\
+	\cf4 background-color\cf3 : \cf6 #dadada\cf3 ;\
+	\cf4 position\cf3 : absolute;\
+	\cf4 left\cf3 : \cf6 33%\cf3 ;\
+	\cf4 top\cf3 : \cf6 5%\cf3 ;\
+\} \
+\cf2 #righteye\cf3  \{\
+	\cf4 position\cf3 : absolute;\
+	\cf4 left\cf3 : \cf6 20%\cf3 ;\
+	\cf4 top\cf3 : \cf6 20%\cf3 ;\
+\}\
+\cf2 #lefteye\cf3  \{\
+	\cf4 position\cf3 : absolute;\
+	\cf4 left\cf3 : \cf6 60%\cf3 ;\
+	\cf4 top\cf3 : \cf6 20%\cf3 ;\
+\}\
+\cf2 #nose\cf3  \{\
+	\cf4 position\cf3 : absolute;\
+	\cf4 left\cf3 : \cf6 45%\cf3 ;\
+	\cf4 top\cf3 : \cf6 50%\cf3 ;\
+	\cf4 width\cf3 : \cf6 10%\cf3 ;\
+	\cf4 height\cf3 : \cf6 10%\cf3 ;\
+	\cf4 background-color\cf3 : black;\
+\}\
+\cf2 #mouth\cf3  \{\
+	\cf4 position\cf3 : absolute;\
+	\cf4 width\cf3 : \cf6 65%\cf3 ;\
+	\cf4 height\cf3 : \cf6 15%\cf3 ;\
+	\cf4 left\cf3 : \cf6 20%\cf3 ;\
+	\cf4 top\cf3 : \cf6 70%\cf3 ;\
+	\cf4 background-color\cf3 : red;\
+\} \
+\cf2 #body\cf3  \{\
+	\cf4 position\cf3 : absolute;\
+	\cf4 left\cf3 : \cf6 25%\cf3 ;\
+	\cf4 top\cf3 : \cf6 35%\cf3 ;\
+	\cf4 width\cf3 : \cf6 45%\cf3 ;\
+	\cf4 height\cf3 : \cf6 55%\cf3 ;\
+	\cf4 background-color\cf3 : \cf6 #dadada\cf3 ;\
+	\cf4 text-align\cf3 :center;\
+	\cf4 padding-top\cf3 : \cf6 30px\cf3 ;\
+\}\
+\
+\cf2 #rightarm\cf3  \{\
+	\cf4 position\cf3 :absolute;\
+	\cf4 left\cf3 :\cf6 20%\cf3 ;\
+\}\
+\cf2 #leftarm\cf3  \{\
+	\cf4 position\cf3 : absolute;\
+	\cf4 left\cf3 : \cf6 70%\cf3 ;\
+\pard\pardeftab720\ri-340\partightenfactor0
+\cf3 \}}
